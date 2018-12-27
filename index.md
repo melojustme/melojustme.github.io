@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
 ## 测试
-1.[melojustme.ml](https://melojustme.ml)
-
+1.[melojustme.ml](http://melojustme.ml)
+2.
 
 You can use the [editor on GitHub](https://github.com/melojustme/melojustme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
